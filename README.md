@@ -1,8 +1,8 @@
 # About Me
 * *Name : Manal Albahar*
-* Birthdate: 6/12
-* Emnail: manal.albahar@gmail.com
-* I'm an electrical engineer with passion to computer and software engineering.
+* *Birthdate: 6/12*
+* *Email: manal.albahar@gmail.com*
+* *I'm an electrical engineer with passion to computer and software engineering.*
 
 # Tips to be a good developer
 Following thsese tips will make you a better developer:
