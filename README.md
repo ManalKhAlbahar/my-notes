@@ -15,4 +15,4 @@ Following thsese tips will make you a better developer:
 * **Documentation and commenting.** When you can't make the code simpler and self-explanatory then you should add comments and document to explain this complexity.
 * **Self-Development.** Keep learning. Try out diffrent programming language and tools. Everyday small improvements will make a real difference.
 
-(for more great tips read the full article here)
+(for more great tips read the full article [here](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/))
